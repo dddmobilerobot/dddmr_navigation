@@ -1,0 +1,9 @@
+[submodule "dddmr_docker"]
+	path = dddmr_docker
+	url = https://github.com/dddmobilerobot/dddmr_docker.git
+[submodule "src/dddmr_rviz_tools"]
+	path = src/dddmr_rviz_tools
+	url = https://github.com/dddmobilerobot/dddmr_rviz_tools.git
+[submodule "src/dddmr_lego_loam_bor"]
+	path = src/dddmr_lego_loam_bor
+	url = https://github.com/dddmobilerobot/dddmr_lego_loam_bor.git
