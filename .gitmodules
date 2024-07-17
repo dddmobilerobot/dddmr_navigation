@@ -7,3 +7,6 @@
 [submodule "src/dddmr_lego_loam_bor"]
 	path = src/dddmr_lego_loam_bor
 	url = https://github.com/dddmobilerobot/dddmr_lego_loam_bor.git
+[submodule "src/dddmr_mcl_3dl"]
+	path = src/dddmr_mcl_3dl
+	url = https://github.com/dddmobilerobot/dddmr_mcl_3dl.git
