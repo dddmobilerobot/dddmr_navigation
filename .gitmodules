@@ -10,3 +10,6 @@
 [submodule "src/dddmr_mcl_3dl"]
 	path = src/dddmr_mcl_3dl
 	url = https://github.com/dddmobilerobot/dddmr_mcl_3dl.git
+[submodule "src/dddmr_sys_core"]
+	path = src/dddmr_sys_core
+	url = https://github.com/dddmobilerobot/dddmr_sys_core.git
