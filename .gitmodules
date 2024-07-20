@@ -13,3 +13,6 @@
 [submodule "src/dddmr_sys_core"]
 	path = src/dddmr_sys_core
 	url = https://github.com/dddmobilerobot/dddmr_sys_core.git
+[submodule "src/dddmr_perception_3d"]
+	path = src/dddmr_perception_3d
+	url = https://github.com/dddmobilerobot/dddmr_perception_3d.git
