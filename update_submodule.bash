@@ -12,3 +12,5 @@ rm -rf dddmr_rviz_tools
 git clone https://github.com/dddmobilerobot/dddmr_rviz_tools.git
 rm -rf dddmr_sys_core
 git clone https://github.com/dddmobilerobot/dddmr_sys_core.git
+rm -rf dddmr_global_planner
+git clone https://github.com/dddmobilerobot/dddmr_global_planner.git

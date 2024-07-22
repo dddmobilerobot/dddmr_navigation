@@ -16,3 +16,6 @@
 [submodule "src/dddmr_perception_3d"]
 	path = src/dddmr_perception_3d
 	url = https://github.com/dddmobilerobot/dddmr_perception_3d.git
+[submodule "src/dddmr_global_planner"]
+	path = src/dddmr_global_planner
+	url = https://github.com/dddmobilerobot/dddmr_global_planner.git
