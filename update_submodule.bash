@@ -16,3 +16,8 @@ rm -rf dddmr_global_planner
 git clone https://github.com/dddmobilerobot/dddmr_global_planner.git
 rm -rf dddmr_local_planner
 git clone https://github.com/dddmobilerobot/dddmr_local_planner.git
+
+cd ..
+git add *
+git commit -m "update submodule"
+git push
