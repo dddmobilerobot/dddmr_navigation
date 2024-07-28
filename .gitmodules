@@ -19,3 +19,6 @@
 [submodule "src/dddmr_global_planner"]
 	path = src/dddmr_global_planner
 	url = https://github.com/dddmobilerobot/dddmr_global_planner.git
+[submodule "src/dddmr_local_planner"]
+	path = src/dddmr_local_planner
+	url = https://github.com/dddmobilerobot/dddmr_local_planner.git
