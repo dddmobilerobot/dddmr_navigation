@@ -22,3 +22,6 @@
 [submodule "src/dddmr_local_planner"]
 	path = src/dddmr_local_planner
 	url = https://github.com/dddmobilerobot/dddmr_local_planner.git
+[submodule "src/dddmr_p2p_move_base"]
+	path = src/dddmr_p2p_move_base
+	url = https://github.com/dddmobilerobot/dddmr_p2p_move_base.git
