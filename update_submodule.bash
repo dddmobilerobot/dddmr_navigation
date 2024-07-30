@@ -16,6 +16,9 @@ rm -rf dddmr_global_planner
 git clone https://github.com/dddmobilerobot/dddmr_global_planner.git
 rm -rf dddmr_local_planner
 git clone https://github.com/dddmobilerobot/dddmr_local_planner.git
+rm -rf dddmr_p2p_move_base
+git clone https://github.com/dddmobilerobot/dddmr_p2p_move_base.git
+
 
 cd ..
 git add *
