@@ -1,6 +1,6 @@
 # dddmr_navigation
-> [!NOTE]
-> This repo contains all necessary packages as submodules:
+> [!IMPORTANT]
+> This repo contains all necessary packages as submodules (see **src** directory):
 > ```
 > cd ~
 > git clone https://github.com/dddmobilerobot/dddmr_navigation.git
