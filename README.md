@@ -13,12 +13,12 @@ DDDMR navigation (3D Mobile Robot Navigation) is a navigation stack allows users
     <td width="50%"><img src="https://github.com/dddmobilerobot/dddmr_documentation_materials/blob/main/dddmr_navigation/global_planner.gif" width="480" height="290"/><p align='center'>3D global planning</p></td>
   </tr>
   <tr width="100%">
-    <td width="50%"><img src="https://github.com/dddmobilerobot/dddmr_documentation_materials/blob/main/dddmr_navigation/local_planner.gif" width="480" height="290"/><p align='center'>3D local planning</p></td>
-    <td width="50%"><img src="https://github.com/dddmobilerobot/dddmr_documentation_materials/blob/main/dddmr_navigation/navigation.gif" width="480" height="290"/><p align='center'>3D navigation</p></td>
+    <td><img src="https://github.com/dddmobilerobot/dddmr_documentation_materials/blob/main/dddmr_navigation/local_planner.gif" width="480" height="290"/><p align='center'>3D local planning</p></td>
+    <td><img src="https://github.com/dddmobilerobot/dddmr_documentation_materials/blob/main/dddmr_navigation/navigation.gif" width="480" height="290"/><p align='center'>3D navigation</p></td>
   </tr>
   <tr width="100%">
-    <td width="50%"><img src="https://github.com/dddmobilerobot/dddmr_documentation_materials/blob/main/dddmr_navigation/annoying_test.gif" width="480" height="290"/><p align='center'>Obstacle avoidance (annoying test)</p></td>
-    <td width="50%"><img src="https://github.com/dddmobilerobot/dddmr_documentation_materials/blob/main/dddmr_navigation/auto_charging.gif" width="480" height="290"/><p align='center'>Auto docking</p></td>
+    <td><img src="https://github.com/dddmobilerobot/dddmr_documentation_materials/blob/main/dddmr_navigation/annoying_test.gif" width="480" height="290"/><p align='center'>Obstacle avoidance (annoying test)</p></td>
+    <td><img src="https://github.com/dddmobilerobot/dddmr_documentation_materials/blob/main/dddmr_navigation/auto_charging.gif" width="480" height="290"/><p align='center'>Auto docking</p></td>
   </tr>
 </table> 
 We have been intensively testing our navigation stack on the development platform and different outdoor areas. We also keep in mind that a cost-effective solution is our objective.
